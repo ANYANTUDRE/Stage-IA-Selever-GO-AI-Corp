@@ -37,7 +37,8 @@ Les répertoires de ce repo sont organisés comme suit :
 | Titre | Date | Objectifs | Répertoire des Supports | Notebook |
 |---------------|-------|--------------------------------|--------------------------|----------------------|
 | **1. Intro au Deep Learning & NLP** | Date | | [Supports]()| <a href=""> <img src="img/kaggle2.svg" alt="Open In "></a> |
-| **2. 1er Projet et Intro to Generative AI & Transformers** | 27/04/2024 | - Appliquer en pratique les notions de OneHotEncoding, Embedding, RNNs, LSTMs - Vue d'ensemble de l'architecture des transformateurs | [Supports]() | <a href=""> <img src="img/kaggle2.svg" alt="Open In "></a> |
+| **2. 1er Projet et Intro to Generative AI & Transformers** | 27/04/2024 | - Appliquer en pratique les notions de OneHotEncoding, Embedding, RNNs, LSTMs 
+- Vue d'ensemble de l'architecture des transformateurs | [Supports]() | <a href=""> <img src="img/kaggle2.svg" alt="Open In "></a> |
 | **3. 2ème Projet & Architecture détaillée des Transformers** | Date | Learn more about Encoder, Decoders, Encoder-Decoder models  | [Supports]() | <a href=""> <img src="img/kaggle2.svg" alt="Open In "></a> |
 
 
