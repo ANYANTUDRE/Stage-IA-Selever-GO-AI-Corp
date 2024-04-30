@@ -20,7 +20,7 @@ Ce stage est focalisé sur le **Natural Language Processing (NLP)** avec des lib
 
 
 
-# Repository structure
+# Structure du repository
 
 Les répertoires de ce repo sont organisés comme suit :  
 
