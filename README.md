@@ -9,6 +9,8 @@
 </div>
 <br/>
 
+<a href=""> <img src="img/kaggle2.svg" alt="Open In "></a>
+
 # Description
 
 Ce repo GitHub contient toutes les **Ressources** ainsi que les **Mini Projets** sur lesquels nous travaillons dans le cadre du stage IA (projet Selever).
