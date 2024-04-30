@@ -9,7 +9,7 @@
 </div>
 <br/>
 
-<a href=""> <img src="img/kaggle2.svg" alt="Open In "></a>
+<a href=""> <img src="img/goaicorp-logo.jpg" alt="Open In "></a>
 
 # Description
 
