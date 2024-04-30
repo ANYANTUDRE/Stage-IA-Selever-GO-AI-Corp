@@ -13,8 +13,8 @@
 Ce repo GitHub contient toutes les ressources et projets que nous avons utilisées et implémentés dans le cadre du stage IA (projet Selever).
 
 Ce stage est focalisé sur le **Natural Language Processing (NLP)** avec des librairies commes **Hugging Face 🤗 transformers**, **Keras** et **Tensorflow**:
--  **Les Mini-Projets**, 
--  **Les supports de Cours**,
+-  **Les Mini-Projets & des Applications Pratiques**, 
+-  **Les Supports de Cours utilisés**,
 -  **Les Ressources à consulter absolument**, et
 -  **Les Ressources supplémentaires à approfondir vos connaissances**
 
@@ -24,11 +24,22 @@ Ce stage est focalisé sur le **Natural Language Processing (NLP)** avec des lib
 
 Les répertoires de ce repo sont organisés comme suit :  
 
-## 1. Projets & Applications Pratiques
+## 1. Mini-Projets & Applications Pratiques
 
 | Titre | Technologies utilisées | Description  | Notebook |
 |---------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **1. Sentiment Analysis** |  **Keras, RNN, LSTMs** | Analyser les sentiments de commentaires en ligne | <a href=""> <img src="img/kaggle2.svg" alt="Open In "></a> |
+
+
+
+## 2. Suivi des Séances & Supports de Cours
+
+| Titre | Date | Objectifs | Répertoire des Supports | Notebook |
+|---------------|-------|--------------------------------|--------------------------|----------------------|
+| **1. Intro au Deep Learning & NLP** | Date | | [Supports]()| <a href=""> <img src="img/kaggle2.svg" alt="Open In "></a> |
+| **2. 1er Projet et Intro to Generative AI & Transformers** | 27/04/2024 | - Appliquer en pratique les notions de OneHotEncoding, Embedding, RNNs, LSTMs - Vue d'ensemble de l'architecture des transformateurs | [Supports]() | <a href=""> <img src="img/kaggle2.svg" alt="Open In "></a> |
+| **3. 2ème Projet & Architecture détaillée des Transformers** | Date | Learn more about Encoder, Decoders, Encoder-Decoder models  | [Supports]() | <a href=""> <img src="img/kaggle2.svg" alt="Open In "></a> |
+
 
 
   
