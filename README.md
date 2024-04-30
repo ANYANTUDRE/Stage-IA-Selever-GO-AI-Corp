@@ -42,6 +42,5 @@ Les répertoires de ce repo sont organisés comme suit :
 
 
 
-  
-### 🛑 Disclaimer ❌: 
+
 
