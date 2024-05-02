@@ -34,7 +34,7 @@ Les répertoires de ce repo sont organisés comme suit :
 
 | Titre | Technologies utilisées | Description  | Notebook |
 |---------|--------------------|-------------------------------|----------------------------------------------------------|
-| **1. Sentiment Analysis** |  **Keras, RNN, LSTMs** | Analyser les sentiments de commentaires en ligne | [Open or Download](https://github.com/ANYANTUDRE/Stage-IA-Selever-GO-AI-Corp/blob/main/Notebooks%20Mini%20Projets/01.%201er%20Mini%20Projet%20-%20Sentiment%20Analysis%20with%20Keras.ipynb) |
+| **1. Sentiment Analysis** |  **Keras, RNN, LSTMs** | Analyser les sentiments de commentaires en ligne | [Open or Download](https://github.com/ANYANTUDRE/Stage-IA-Selever-GO-AI-Corp/blob/main/01.%20Notebooks%20-%20Mini%20Projets%20et%20Applications%20Pratique/01.%201er%20Mini%20Projet%20-%20Sentiment%20Analysis%20with%20Keras.ipynb) |
 
 
 
