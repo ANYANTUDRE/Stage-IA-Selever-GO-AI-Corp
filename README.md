@@ -40,8 +40,8 @@ Les répertoires de ce repo sont organisés comme suit :
 
 ## 2. Séances de Formations & Supports de Cours
 
-| Titre | Date | Objectifs | Supports | Détails de la séance |
-|---------|---------|-------------------|--------------------------------|----------------------------| 
+| Titre | Date | Objectifs | Supports | 
+|---------|---------|-------------------|--------------------------------|
 | **1. Intro au Deep Learning & NLP** | 17/04/2024, 19h GMT | Introduire les concepts fondamentaux de **Réseaux de Neurones**, de **Backpropagation** ainsi que le **pipeline classique du NLP** | [Supports](https://github.com/ANYANTUDRE/Stage-IA-Selever-GO-AI-Corp/tree/main/02.%20Supports%20de%20Cours%20-%20Formations/01.%20S%C3%A9ance%201)|
 | **2. 1er Projet et Intro to Generative AI & Transformers** | 27/04/2024, 19h GMT | Pratiquer les notions de **OneHotEncoding, Embedding, RNNs, LSTMs** & Vue d'ensemble sur l'**IA Générative**, le **Prompt Engineering** et l'**architecture des Transformateurs** (high level) | [Supports](https://github.com/ANYANTUDRE/Stage-IA-Selever-GO-AI-Corp/tree/main/02.%20Supports%20de%20Cours%20-%20Formations/02.%20S%C3%A9ance%202) |
 | **3. 2ème Projet & Architecture détaillée des Transformers** |  | Détails sur les Encodeurs, les Décodeurs et les Encodeurs-Décodeurs  | [Supports](https://github.com/ANYANTUDRE/Stage-IA-Selever-GO-AI-Corp/tree/main/02.%20Supports%20de%20Cours%20-%20Formations/03.%20S%C3%A9ance%203) |
