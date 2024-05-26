@@ -32,9 +32,16 @@ Les répertoires de ce repo sont organisés comme suit :
 
 ## 1. Mini-Projets & Applications Pratiques
 
-| Titre | Technologies utilisées | Description  | Notebook |
-|---------|--------------------|-------------------------------|----------------------------------------------------------|
-| **1. Sentiment Analysis** |  **Keras, RNN, LSTMs** | Analyser les sentiments de commentaires en ligne | [Open or Download](https://github.com/ANYANTUDRE/Stage-IA-Selever-GO-AI-Corp/blob/main/01.%20Notebooks%20-%20Mini%20Projets%20et%20Applications%20Pratique/01.%201er%20Mini%20Projet%20-%20Sentiment%20Analysis%20with%20Keras.ipynb) |
+| Titre | Mot Clés | Description | Notebook | Status |
+| --- | --- | --- | --- | --- |
+| **1. Sentiment Analysis** | **Keras, RNN, LSTMs** | Analyser les sentiments de commentaires en ligne | [Open or Download](https://github.com/ANYANTUDRE/Stage-IA-Selever-GO-AI-Corp/blob/main/01.%20Notebooks%20-%20Mini%20Projets%20et%20Applications%20Pratique/01.%201er%20Mini%20Projet%20-%20Sentiment%20Analysis%20with%20Keras.ipynb) | Done ✅ |
+| **2. L'API pipeline de 🤗** | **transformers, pipeline** | Utilisation de l'API pipeline pour effectuer des taches de one shot classification, traduction, résumé, NER etc... | [Open or Download](https://github.com/ANYANTUDRE/Stage-IA-Selever-GO-AI-Corp/blob/main/01.%20Notebooks%20-%20Mini%20Projets%20et%20Applications%20Pratique/02.%20Transformers%20-%20La%20fonction%20pipeline%20.ipynb) | Done ✅ |
+| **3. Initiation à Gradio** | **Gradio, transformers** | Developper des interfaces UI pour un LLM et deploiement sur 🤗 | [Open or Download](https://github.com/ANYANTUDRE/Stage-IA-Selever-GO-AI-Corp/blob/main/01.%20Notebooks%20-%20Mini%20Projets%20et%20Applications%20Pratique/03.%20Intro%20%C3%A0%20Gradio%20-%20Developper%20des%20interfaces%20UI%20pour%20un%20LLM.ipynb) | Done ✅ |
+| **4. Using transformers** | **transformers, AutoTokenizer, TFAutoModel, TFBertModel...** | Familiarization avec la bibliothèque transformers | [Open or Download]() | Done ✅ |
+| **5. Prompt Engineering** | ** ** | ** ** | [Open or Download]() | Not Yet 🔜 |
+| **6. Déploiement d'un modèle multilingue sur 🤗** | ** ** | ** ** | [Open or Download]() | Not Yet 🔜 |
+| **7. Full instruction Fine-tuning 🤗** | ** ** | ** ** | [Open or Download]() | Not Yet 🔜 |
+| **8. Fine-tuning with LoRA and QLoRA 🤗** | ** ** | ** ** | [Open or Download]() | Not Yet 🔜 |
 
 
 
@@ -60,7 +67,7 @@ Les répertoires de ce repo sont organisés comme suit :
 |---------|--------------------|-------------------------------|----------------------------------------------------------|
 | **1. NLP Course on Hugging Face** |  **Transformers** | Cours sur le NLP et la bibliothèque transformers de Hugging Face| [Lien](https://github.com/ANYANTUDRE/NLP-Course-Hugging-Face) |
 | **2. Formation FIDLE** | **Maths & Backpropagation, CNNs, RNNs, Transformers, GNNs etc...**  | Formation d'Introduction au Deep Learning sur Youtube | [Lien](https://www.youtube.com/playlist?list=PLlI0-qAzf2SZQ_ZRAh4u4zbb-MQHOW7IZ) |
-| **2. The Illustrated Transformer** | **L'architecture des Transformers et la Self-Attention détaillée et illustrée**  | Article - Blog post de Jay Alammar | [Lien]([https://www.youtube.com/playlist?list=PLlI0-qAzf2SZQ_ZRAh4u4zbb-MQHOW7IZ](https://jalammar.github.io/illustrated-transformer/)) |
+| **3. The Illustrated Transformer** | **L'architecture des Transformers et la Self-Attention détaillée et illustrée**  | Article - Blog post de Jay Alammar | [Lien]([https://www.youtube.com/playlist?list=PLlI0-qAzf2SZQ_ZRAh4u4zbb-MQHOW7IZ](https://jalammar.github.io/illustrated-transformer/)) |
 
 
 
