@@ -47,8 +47,8 @@ Les répertoires de ce repo sont organisés comme suit :
 | **3. Architecture détaillée des Transformers & 2ème Projet** |  | Détails sur les **Encodeurs, les Décodeurs et les Encodeurs-Décodeurs**  | [Supports](https://github.com/ANYANTUDRE/Stage-IA-Selever-GO-AI-Corp/tree/main/02.%20Supports%20de%20Cours%20-%20Formations/03.%20S%C3%A9ance%203) |
 | **4. Utilisation des Transformers avec Hugging Face** | 19/05/2024, 19h GMT  | Introduction à la bibliothèque 🤗 **transformers**: Utilisation des classes de **Tokenizers**, de **Modèles prétrainés (BERT base & DistilBERT)**, techniques de **padding, truncation, batching** etc...  | [Supports](https://github.com/ANYANTUDRE/Stage-IA-Selever-GO-AI-Corp/tree/main/02.%20Supports%20de%20Cours%20-%20Formations/04.%20S%C3%A9ance%204%20-%20Utilisation%20des%20Transformers%20de%20Hugging%20Face) |
 | **5. Rappels & Quantization** | 25/05/2024, 20h GMT  | - Retour sur la bibliothèque 🤗 **transformers**    - Technique de **Quantization** | [Supports](https://github.com/ANYANTUDRE/Stage-IA-Selever-GO-AI-Corp/tree/main/02.%20Supports%20de%20Cours%20-%20Formations/05.%20S%C3%A9ance%205%20-%20Quantization%20%26%20Rappels) |
-| **6. Multi-task instruction Fine-tuning & 3ème & 4ème mini-projets** | 26/05/2024, 20h GMT  | **- Projet Prompt Engineering  - Déploiement d'un modèle multilingue sur Hugging Face avec Gradio - Notion de Fine-tuning d'un LLM: Processus de Fine-tuning, Catastrophic Forgetting & Multi-task instruction Fine-tuning**| [Supports](https://github.com/ANYANTUDRE/Stage-IA-Selever-GO-AI-Corp/tree/main/02.%20Supports%20de%20Cours%20-%20Formations/06.%20S%C3%A9ance%206%20-%20%20Fine-tuning%20process%20%26%20Instruction%20Fine-tuning) |
-| **7. Evaluation metrics & PEFT (LoRA et QLoRA) & 5ème projet** | Coming soon...  | **- Evaluation des LLMs: scores ROUGE et BLEU  - PEFT et Techniques de Reparamétrisation: LoRA et QLoRA**| [Supports]() |
+| **6. Multi-task instruction Fine-tuning & 3ème & 4ème projets** | 26/05/2024, 20h GMT  | **- Projet Prompt Engineering  - Déploiement d'un modèle multilingue sur Hugging Face avec Gradio - Notion de Fine-tuning d'un LLM: Processus de Fine-tuning, Catastrophic Forgetting & Multi-task instruction Fine-tuning**| [Supports](https://github.com/ANYANTUDRE/Stage-IA-Selever-GO-AI-Corp/tree/main/02.%20Supports%20de%20Cours%20-%20Formations/06.%20S%C3%A9ance%206%20-%20%20Fine-tuning%20process%20%26%20Instruction%20Fine-tuning) |
+| **7. Evaluation metrics & PEFT (LoRA et QLoRA) & 5ème projet** | Coming soon...  | **- Evaluation des LLMs: scores ROUGE et BLEU  - PEFT et Techniques de Reparamétrisation: LoRA et QLoRA**| [Supports](https://github.com/ANYANTUDRE/Stage-IA-Selever-GO-AI-Corp/tree/main/02.%20Supports%20de%20Cours%20-%20Formations/07.%20S%C3%A9ance%207%20-%20M%C3%A9triques%20%26%20%20PEFTs%20-%20LoRA%20%26%20QLoRA) |
 
 
 
@@ -60,6 +60,7 @@ Les répertoires de ce repo sont organisés comme suit :
 |---------|--------------------|-------------------------------|----------------------------------------------------------|
 | **1. NLP Course on Hugging Face** |  **Transformers** | Cours sur le NLP et la bibliothèque transformers de Hugging Face| [Lien](https://github.com/ANYANTUDRE/NLP-Course-Hugging-Face) |
 | **2. Formation FIDLE** | **Maths & Backpropagation, CNNs, RNNs, Transformers, GNNs etc...**  | Formation d'Introduction au Deep Learning sur Youtube | [Lien](https://www.youtube.com/playlist?list=PLlI0-qAzf2SZQ_ZRAh4u4zbb-MQHOW7IZ) |
+| **2. The Illustrated Transformer** | **L'architecture des Transformers et la Self-Attention détaillée et illustrée**  | Article - Blog post de Jay Alammar | [Lien]([https://www.youtube.com/playlist?list=PLlI0-qAzf2SZQ_ZRAh4u4zbb-MQHOW7IZ](https://jalammar.github.io/illustrated-transformer/)) |
 
 
 
@@ -68,3 +69,4 @@ Les répertoires de ce repo sont organisés comme suit :
 | Titre | Connaissances à acquérir | Brève Description  | Liens |
 |---------|--------------------|-------------------------------|------------------------|
 | **1. Formation FIDLE** | **Maths & Backpropagation, CNNs, RNNs, Transformers, GNNs etc...**  | Formation d'Introduction au Deep Learning sur Youtube | [Lien](https://www.youtube.com/playlist?list=PLlI0-qAzf2SZQ_ZRAh4u4zbb-MQHOW7IZ) |
+
