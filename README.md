@@ -67,7 +67,7 @@ Les répertoires de ce repo sont organisés comme suit :
 |---------|--------------------|-------------------------------|----------------------------------------------------------|
 | **1. NLP Course on Hugging Face** |  **Transformers** | Cours sur le NLP et la bibliothèque transformers de Hugging Face| [Lien](https://github.com/ANYANTUDRE/NLP-Course-Hugging-Face) |
 | **2. Formation FIDLE** | **Maths & Backpropagation, CNNs, RNNs, Transformers, GNNs etc...**  | Formation d'Introduction au Deep Learning sur Youtube | [Lien](https://www.youtube.com/playlist?list=PLlI0-qAzf2SZQ_ZRAh4u4zbb-MQHOW7IZ) |
-| **3. The Illustrated Transformer** | **L'architecture des Transformers et la Self-Attention détaillée et illustrée**  | Article - Blog post de Jay Alammar | [Lien]([https://www.youtube.com/playlist?list=PLlI0-qAzf2SZQ_ZRAh4u4zbb-MQHOW7IZ](https://jalammar.github.io/illustrated-transformer/)) |
+| **3. The Illustrated Transformer** | **L'architecture des Transformers et la Self-Attention détaillée et illustrée**  | Article - Blog post de Jay Alammar | [Lien](https://jalammar.github.io/illustrated-transformer/) |
 
 
 
