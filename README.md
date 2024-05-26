@@ -76,4 +76,5 @@ Les répertoires de ce repo sont organisés comme suit :
 | Titre | Connaissances à acquérir | Brève Description  | Liens |
 |---------|--------------------|-------------------------------|------------------------|
 | **1. Formation FIDLE** | **Maths & Backpropagation, CNNs, RNNs, Transformers, GNNs etc...**  | Formation d'Introduction au Deep Learning sur Youtube | [Lien](https://www.youtube.com/playlist?list=PLlI0-qAzf2SZQ_ZRAh4u4zbb-MQHOW7IZ) |
+| **2. Documentation officielle des Transformers** | **Transformes en général**  | Doc officielle sur Hugging Face | [Lien](https://huggingface.co/docs/transformers/index) |
 
