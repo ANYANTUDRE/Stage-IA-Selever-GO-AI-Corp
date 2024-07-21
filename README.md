@@ -79,3 +79,12 @@ Les répertoires de ce repo sont organisés comme suit :
 | **1. Formation FIDLE** | **Maths & Backpropagation, CNNs, RNNs, Transformers, GNNs etc...**  | Formation d'Introduction au Deep Learning sur Youtube | [Lien](https://www.youtube.com/playlist?list=PLlI0-qAzf2SZQ_ZRAh4u4zbb-MQHOW7IZ) |
 | **2. Documentation officielle des Transformers** | **Transformes en général**  | Doc officielle sur Hugging Face | [Lien](https://huggingface.co/docs/transformers/index) |
 
+
+## Répartition des taches pour la collecte des données
+
+| N° Groupe | Personnes | Sites/Sources  | Date limite |
+|---------|--------------------|-------------------------------|------------------------|
+| **1.** | **Cédrix & Jean**  | None | [Dictionnaire Moore](https://www.webonary.org/moore/browse/browse-vernacular-english/?letter=-&key=mos&lang=en) |
+| **2.** | **Alexis & Ibrahim**  | [Groupe FB: Apprendre le Mooré](https://www.facebook.com/groups/415831506146152) | [Site Web](https://apprendre-moore.razamwende.com/) |
+| **3.** | **Genevieve & Aminatou**  | [Page-FB: Learn Moore](https://web.facebook.com/Mossilanguage?_rdc=1&_rdr) | [Page Youssouf Ambiance Ouédraogo ](https://web.facebook.com/oued.youssouf?_rdc=1&_rdr) |
+| **4.** | **Nessrine & Alban**  | Doc officielle sur Hugging Face | [Lien](https://huggingface.co/docs/transformers/index) |
