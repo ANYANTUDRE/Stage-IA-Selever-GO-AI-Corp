@@ -84,8 +84,16 @@ Les répertoires de ce repo sont organisés comme suit :
 
 | N° Groupe | Personnes | Sites/Sources  | Date limite |
 |---------|--------------------|-------------------------------|------------------------|
-| **1.** | **Cédrix & Jean [& Aristide]**  | None | [Dictionnaire Moore](https://www.webonary.org/moore/browse/browse-vernacular-english/?letter=-&key=mos&lang=en) |
-| **2.** | **Alexis & Ibrahim**  | [Groupe FB: Apprendre le Mooré](https://www.facebook.com/groups/415831506146152) | [Site Web](https://apprendre-moore.razamwende.com/) |
-| **3.** | **Genevieve & Aminatou **  | [Page-FB: Learn Moore](https://web.facebook.com/Mossilanguage?_rdc=1&_rdr) | [Page Youssouf Ambiance Ouédraogo ](https://web.facebook.com/oued.youssouf?_rdc=1&_rdr) |
-| **4.** | **Nessrine & Alim [& Alban]**  | [Page FB: Moore TV](https://web.facebook.com/groups/415831506146152/user/100077605815165/) | [Phrase Book 
+| **1.** | **Cédrix & Jean** | None | [Dictionnaire Moore](https://www.webonary.org/moore/browse/browse-vernacular-english/?letter=-&key=mos&lang=en) |
+| **2.** | **Alexis & Ibrahim**  | None | [Dictionnaire Moore](https://www.webonary.org/moore/browse/browse-vernacular-english/?letter=-&key=mos&lang=en) |
+| **3.** | **Alim**  | None | [Site Web](https://apprendre-moore.razamwende.com/) |
+| **4.** | **Genevieve & Aminatou**  | [Page FB Dieudonné Kyelem](https://www.facebook.com/Piloukou?_rdc=1&_rdr) | [Page Youssouf Ambiance Ouédraogo ](https://web.facebook.com/oued.youssouf?_rdc=1&_rdr) |
+| **4.** | **Nessrine & Alban**  | [Page FB: Moore TV](https://web.facebook.com/groups/415831506146152/user/100077605815165/) | [Phrase Book 
 prepared by The Protestant Mission]() |
+| **.5** | **Yacine**  | [Groupe FB - Apprendre Mooré](https://www.facebook.com/groups/415831506146152) | [Groupe FB - apprendre mooré, zams mooré](https://www.facebook.com/groups/zamsmoore?_rdc=1&_rdr)|
+
+[Phrase Book 
+prepared by The Protestant Mission]() |
+
+
+
