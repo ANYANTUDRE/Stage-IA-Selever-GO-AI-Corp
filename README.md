@@ -82,11 +82,12 @@ Les répertoires de ce repo sont organisés comme suit :
 
 ## Répartition des taches pour la collecte des données
 
-| N° Groupe | Personnes | Sites/Sources  | Date limite |
-|---------|--------------------|-------------------------------|------------------------|
-| **1.** | **Cédrix & Jean** | None | [Dictionnaire Moore](https://www.webonary.org/moore/browse/browse-vernacular-english/?letter=-&key=mos&lang=en) |
-| **2.** | **Alexis & Ibrahim**  | None | [Dictionnaire Moore](https://www.webonary.org/moore/browse/browse-vernacular-english/?letter=-&key=mos&lang=en) |
-| **3.** | **Alim**  | None | [Site Web](https://apprendre-moore.razamwende.com/) |
-| **4.** | **Genevieve & Aminatou**  | [Page FB Dieudonné Kyelem](https://www.facebook.com/Piloukou?_rdc=1&_rdr) | [Page Youssouf Ambiance Ouédraogo ](https://web.facebook.com/oued.youssouf?_rdc=1&_rdr) |
-| **5.** | **Yacine**  | [Groupe FB - Apprendre Mooré](https://www.facebook.com/groups/415831506146152) | [Groupe FB - apprendre mooré, zams mooré](https://www.facebook.com/groups/zamsmoore?_rdc=1&_rdr)|
-| **6.** | **Nessrine & Alban**  | PDF docs prepared by The Protestant Mission]() | Dictionnary | 
+| N° Groupe | Personnes | Sites/Sources 1  | Sites/Sources 2 | Status |
+|---------|--------------------|-------------------------------|------------------------|------------------------|
+| **1.** | **Cédrix & Jean** | None | [Dictionnaire Moore](https://www.webonary.org/moore/browse/browse-vernacular-english/?letter=-&key=mos&lang=en) | En cours  |
+| **2.** | **Alexis & Ibrahim**  | None | [Dictionnaire Moore](https://www.webonary.org/moore/browse/browse-vernacular-english/?letter=-&key=mos&lang=en) | En cours  |
+| **3.** | **Alim**  | None | [Site Web](https://apprendre-moore.razamwende.com/) | En cours  |
+| **4.** | **Genevieve & Aminatou**  | [Page FB Dieudonné Kyelem](https://www.facebook.com/Piloukou?_rdc=1&_rdr) | [Page Youssouf Ambiance Ouédraogo ](https://web.facebook.com/oued.youssouf?_rdc=1&_rdr) | En cours  |
+| **5.** | **Yacine**  | [Site Web - Apprendre Mooré](https://apprendre-moore.razamwende.com/enrol/index.php?id=16) | [**PDF doc:** FSI - Moré Basic Course - Student Text](https://fsi-languages.yojik.eu/languages/FSI/Mor%C3%A9/New-Mor%C3%A9/FSI%20-%20More%20Basic%20Course%20-%20Student%20Text.pdf)|    |
+| **6.** | **Nessrine**  | **PDF doc:** BF_Moore_Language_Lessons.pdf]() | None | En cours  |
+| **7.** | **Nobody for now**  | [Groupe FB - Apprendre Mooré](https://www.facebook.com/groups/415831506146152) | [Groupe FB - apprendre mooré, zams mooré](https://www.facebook.com/groups/zamsmoore?_rdc=1&_rdr)|  Pas commencé |
